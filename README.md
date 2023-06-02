@@ -14,11 +14,19 @@ The CSAR-HiQ dataset can be downloaded [here](http://www.csardock.org/).
 
 ## Requirements
 python >= 3.7
+
 networkx==2.5
+
 numpy==1.19.2
+
 pandas==1.1.5
+
 pymol==0.1.0
+
 rdkit==2022.9.2
+
 torch==1.10.2
+
 torch_geometric==2.0.3
+
 scipy==1.5.2
